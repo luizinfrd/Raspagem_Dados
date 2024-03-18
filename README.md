@@ -1,5 +1,6 @@
 # Raspagem_Dados
 Uma automação que lê as informações de uma planilha e passa os dados para um bloco de notas
+A automação foi testada na resolução 1360 x 768 e devido ao uso da bilbioteca PyAutoGui é impossível rodar em outros monitores
 
 
 
