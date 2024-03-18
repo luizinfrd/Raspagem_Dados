@@ -1,0 +1,7 @@
+Nome: Joao Silva
+Email: joao@example.com
+Telefone: 1234-5678
+Endereço: Rua das Flores, 1
+Cidade: Sao Paulo
+CEP: 01234-567
+
